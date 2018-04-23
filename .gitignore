@@ -1,0 +1,9 @@
+############################
+# Everything that isnt src #
+############################
+*/.settings
+*/bin
+*/.classpath
+*/.project
+.metadata
+.recommenders
